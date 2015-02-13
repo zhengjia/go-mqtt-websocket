@@ -1,1 +1,3 @@
 eval $(goop env)
+
+goop install
