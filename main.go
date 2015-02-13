@@ -4,8 +4,8 @@ import (
 	"log"
 	"net/http"
 
-	"bitbucket.org/zhengjia/go-mqtt-websocket/mqtt"
 	"code.google.com/p/go.net/websocket"
+	"github.com/zhengjia/go-mqtt-websocket/mqtt"
 )
 
 const listenAddr = "localhost:9292"
